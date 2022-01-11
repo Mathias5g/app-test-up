@@ -57,11 +57,9 @@ Algumas bibliotecas foram utilizadas a fim de aprimorar a performance e usabilid
 ```json
 {
     "laravel/framework": "^8.65",
-    "@inertiajs/inertia": "^0.10.0",
-    "@inertiajs/inertia-vue3": "^0.5.1",
-    "moment": "^2.29.1",
-    "tailwindcss": "^2.0.1",
-    "vue": "^3.0.5"
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "jquery-mask-plugin": "^1.14.16"
 }
 ```
 Lista completa em ``composer.json`` e ``package.json``
